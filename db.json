@@ -1,0 +1,432 @@
+[
+    {
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "price": 18.99,
+      "image": [
+        "images/things-fall-apart.jpg"
+      ],
+      "category": "Historical Fiction",
+      "description": "A classic novel depicting the clash of cultures during colonialism in Nigeria."
+    },
+    {
+      "title": "Fairy tales",
+      "author": "Hans Christian Andersen",
+      "price": 9.49,
+      "image": [
+        "images/fairy-tales.jpg"
+      ],
+      "category": "Fantasy",
+      "description": "A collection of enchanting and timeless fairy tales."
+    },
+    {
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "price": 12.75,
+      "image": [
+        "images/the-divine-comedy.jpg"
+      ],
+      "category": "Epic",
+      "description": "A journey through Hell, Purgatory, and Heaven, exploring the afterlife."
+    },
+    {
+      "title": "The Epic Of Gilgamesh",
+      "author": "Unknown",
+      "price": 6.99,
+      "image": [
+        "images/the-epic-of-gilgamesh.jpg"
+      ],
+      "category": "Classic",
+      "description": "One of the earliest known works of literature, an epic of heroism and friendship."
+    },
+    {
+      "title": "The Book Of Job",
+      "author": "Unknown",
+      "price": 8.25,
+      "image": [
+        "images/the-book-of-job.jpg"
+      ],
+      "category": "Mystery",
+      "description": "An ancient religious text exploring human suffering and divine justice."
+    },
+    {
+      "title": "One Thousand and One Nights",
+      "author": "Unknown",
+      "price": 14.50,
+      "image": [
+        "images/one-thousand-and-one-nights.jpg"
+      ],
+      "category": "Adventure",
+      "description": "A collection of Arabian, Persian, Indian, and Egyptian tales, including Aladdin and Ali Baba."
+    },
+    {
+      "title": "Njál's Saga",
+      "author": "Unknown",
+      "price": 11.90,
+      "image": [
+        "images/njals-saga.jpg"
+      ],
+      "category": "Historical Fiction",
+      "description": "A medieval Icelandic saga of feuds, revenge, and honor."
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "price": 10.99,
+      "image": [
+        "images/pride-and-prejudice.jpg"
+      ],
+      "category": "Romance",
+      "description": "A witty and timeless romance novel exploring societal norms and love."
+    },
+    {
+      "title": "Le Père Goriot",
+      "author": "Honoré de Balzac",
+      "price": 13.75,
+      "image": [
+        "images/le-pere-goriot.jpg"
+      ],
+      "category": "Classic",
+      "description": "Part of 'La Comédie Humaine,' a novel about ambition, wealth, and family in 19th-century France."
+    },
+    {
+      "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+      "author": "Samuel Beckett",
+      "price": 16.25,
+      "image": [
+        "images/molloy-malone-dies-the-unnamable.jpg"
+      ],
+      "category": "Modernist",
+      "description": "A trilogy of existential and absurdist novels by the renowned playwright and author."
+    },
+    {
+      "title": "The Decameron",
+      "author": "Giovanni Boccaccio",
+      "price": 9.99,
+      "image": [
+        "images/the-decameron.jpg"
+      ],
+      "category": "Adventure",
+      "description": "A collection of 100 tales told by ten young people fleeing the Black Death in Florence."
+    },
+    {
+      "title": "Ficciones",
+      "author": "Jorge Luis Borges",
+      "price": 11.35,
+      "image": [
+        "images/ficciones.jpg"
+      ],
+      "category": "Fantasy",
+      "description": "A collection of mind-bending and metaphysical short stories by a master of magical realism."
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "price": 13.15,
+      "image": [
+        "images/wuthering-heights.jpg"
+      ],
+      "category": "Gothic",
+      "description": "A dark and passionate tale of love and revenge set on the Yorkshire moors."
+    },
+    {
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "price": 11.80,
+      "image": [
+        "images/l-etranger.jpg"
+      ],
+      "category": "Modernist",
+      "description": "An existential novel exploring the absurdity of human existence and indifference to society."
+    },
+    {
+      "title": "Poems",
+      "author": "Paul Celan",
+      "price": 9.95,
+      "image": [
+        "images/poems-paul-celan.jpg"
+      ],
+      "category": "Poetry",
+      "description": "A collection of powerful and thought-provoking poems by the influential German-language poet."
+    },
+    {
+      "title": "Journey to the End of the Night",
+      "author": "Louis-Ferdinand Céline",
+      "price": 15.20,
+      "image": [
+        "images/voyage-au-bout-de-la-nuit.jpg"
+      ],
+      "category": "Adventure",
+      "description": "A satirical and darkly humorous novel following the adventures of a misanthropic antihero."
+    },
+    {
+      "title": "Don Quijote De La Mancha",
+      "author": "Miguel de Cervantes",
+      "price": 12.45,
+      "image": [
+        "images/don-quijote-de-la-mancha.jpg"
+      ],
+      "category": "Classic",
+      "description": "The iconic tale of a delusional knight-errant and his loyal squire, Sancho Panza."
+    },
+    {
+      "title": "The Canterbury Tales",
+      "author": "Geoffrey Chaucer",
+      "price": 11.95,
+      "image": [
+        "images/the-canterbury-tales.jpg"
+      ],
+      "category": "Classic",
+      "description": "A collection of stories told by a group of pilgrims on their way to Canterbury."
+    },
+    {
+      "title": "Stories",
+      "author": "Anton Chekhov",
+      "price": 9.50,
+      "image": [
+        "images/stories-of-anton-chekhov.jpg"
+      ],
+      "category": "Fiction",
+      "description": "A selection of the celebrated Russian playwright and short story writer's works."
+    },
+    {
+      "title": "Nostromo",
+      "author": "Joseph Conrad",
+      "price": 13.60,
+      "image": [
+        "images/nostromo.jpg"
+      ],
+      "category": "Adventure",
+      "description": "An epic tale of revolution and greed set in the fictional South American country of Costaguana."
+    },
+    {
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "price": 12.25,
+      "image": [
+        "images/great-expectations.jpg"
+      ],
+      "category": "Historical Fiction",
+      "description": "A coming-of-age novel following the life of Pip, a poor orphan turned gentleman."
+    },
+    {
+      "title": "Jacques the Fatalist",
+      "author": "Denis Diderot",
+      "price": 10.80,
+      "image": [
+        "images/jacques-the-fatalist.jpg"
+      ],
+      "category": "Classic",
+      "description": "An Enlightenment-era philosophical novel exploring free will and determinism."
+    },
+    {
+      "title": "Berlin Alexanderplatz",
+      "author": "Alfred Döblin",
+      "price": 14.90,
+      "image": [
+        "images/berlin-alexanderplatz.jpg"
+      ],
+      "category": "Modernist",
+      "description": "A groundbreaking modernist novel set in the bustling city of Berlin in the 1920s."
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "price": 13.99,
+      "image": [
+        "images/crime-and-punishment.jpg"
+      ],
+      "category": "Mystery",
+      "description": "A psychological thriller following the tormented mind of a young murderer."
+    },
+    {
+      "title": "The Idiot",
+      "author": "Fyodor Dostoevsky",
+      "price": 13.99,
+      "image": [
+        "images/the-idiot.jpg"
+      ],
+      "category": "Romance",
+      "description": "A novel exploring the complexities of human nature through the character of Prince Myshkin."
+    },
+    {
+      "title": "The Possessed",
+      "author": "Fyodor Dostoevsky",
+      "price": 15.25,
+      "image": [
+        "images/the-possessed.jpg"
+      ],
+      "category": "Mystery",
+      "description": "A gripping tale of political intrigue, revolutionary ideas, and madness."
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "price": 16.35,
+      "image": [
+        "images/the-brothers-karamazov.jpg"
+      ],
+      "category": "Mystery",
+      "description": "A monumental novel of family drama, faith, and moral dilemmas."
+    },
+    {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "price": 14.60,
+      "image": [
+        "images/middlemarch.jpg"
+      ],
+      "category": "Historical Fiction",
+      "description": "A rich and insightful portrayal of life in the fictional town of Middlemarch."
+    },
+    {
+      "title": "Invisible Man",
+      "author": "Ralph Ellison",
+      "price": 13.20,
+      "image": [
+        "images/invisible-man.jpg"
+      ],
+      "category": "Modernist",
+      "description": "A powerful novel addressing racial and social issues in 20th-century America."
+    },
+    {
+      "title": "Medea",
+      "author": "Euripides",
+      "price": 10.50,
+      "image": [
+        "images/medea.jpg"
+      ],
+      "category": "Classic",
+      "description": "A tragic play centered around the infamous sorceress and her horrific revenge."
+    },
+    {
+      "title": "Absalom, Absalom!",
+      "author": "William Faulkner",
+      "price": 15.80,
+      "image": [
+        "images/absalom-absalom.jpg"
+      ],
+      "category": "Historical Fiction",
+      "description": "A complex and multi-layered novel exploring the history of the Sutpen family."
+    },
+    {
+      "title": "The Sound and the Fury",
+      "author": "William Faulkner",
+      "price": 12.75,
+      "image": [
+        "images/the-sound-and-the-fury.jpg"
+      ],
+      "category": "Modernist",
+      "description": "A modernist masterpiece known for its innovative narrative techniques."
+    },
+    {
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "price": 11.95,
+      "image": [
+        "images/madame-bovary.jpg"
+      ],
+      "category": "Romance",
+      "description": "A compelling tale of a woman's desire for passion and escape from provincial life."
+    },
+    {
+      "title": "Sentimental Education",
+      "author": "Gustave Flaubert",
+      "price": 13.45,
+      "image": [
+        "images/l-education-sentimentale.jpg"
+      ],
+      "category": "Romance",
+      "description": "A novel depicting the romantic and social struggles of its young protagonist."
+    },
+    {
+      "title": "Gypsy Ballads",
+      "author": "Federico García Lorca",
+      "price": 9.95,
+      "image": [
+        "images/gypsy-ballads.jpg"
+      ],
+      "category": "Poetry",
+      "description": "A collection of passionate and evocative poems inspired by Spanish gypsy folklore."
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "price": 14.20,
+      "image": [
+        "images/one-hundred-years-of-solitude.jpg"
+      ],
+      "category": "Magical Realism",
+      "description": "A tale of the Buendía family and the fictional town of Macondo with elements of magic."
+    },
+    {
+      "title": "Love in the Time of Cholera",
+      "author": "Gabriel García Márquez",
+      "price": 12.40,
+      "image": [
+        "images/love-in-the-time-of-cholera.jpg"
+      ],
+      "category": "Romance",
+      "description": "A captivating story of love that endures over decades and amidst a cholera epidemic."
+    },
+    {
+      "title": "Faust",
+      "author": "Johann Wolfgang von Goethe",
+      "price": 11.75,
+      "image": [
+        "images/faust.jpg"
+      ],
+      "category": "Fantasy",
+      "description": "A classic work of German literature exploring the timeless theme of human ambition."
+    },
+    {
+      "title": "Dead Souls",
+      "author": "Nikolai Gogol",
+      "price": 10.65,
+      "image": [
+        "images/dead-souls.jpg"
+      ],
+      "category": "Satire",
+      "description": "A satirical novel about the buying and selling of souls in 19th-century Russia."
+    },
+    {
+      "title": "The Tin Drum",
+      "author": "Günter Grass",
+      "price": 13.75,
+      "image": [
+        "images/the-tin-drum.jpg"
+      ],
+      "category": "Historical Fiction",
+      "description": "A darkly comic novel chronicling the life of a boy who refuses to grow up."
+    },
+    {
+      "title": "The Devil to Pay in the Backlands",
+      "author": "João Guimarães Rosa",
+      "price": 15.55,
+      "image": [
+        "images/the-devil-to-pay-in-the-backlands.jpg"
+      ],
+      "category": "Epic",
+      "description": "An epic and existential tale set in the Brazilian hinterlands."
+    },
+    {
+      "title": "Hunger",
+      "author": "Knut Hamsun",
+      "price": 10.30,
+      "image": [
+        "images/hunger.jpg"
+      ],
+      "category": "Modernist",
+      "description": "A novel following the psychological and physical struggles of a struggling writer."
+    },
+    {
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "price": 9.90,
+      "image": [
+        "images/the-old-man-and-the-sea.jpg"
+      ],
+      "category": "Adventure",
+      "description": "A novella capturing the determination of an old fisherman and his battle with a marlin."
+    }
+]
